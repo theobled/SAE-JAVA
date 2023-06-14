@@ -47,8 +47,7 @@ Cependant, en fonction de l'implementation du graphe choisie, la création du gr
   
 Pour les graphes à 1 000 000 de sommets et implémenter avec GrapheHHAdj, notre Dijsktra le résout en environ 2 sec :
 
-
-
+![image](https://github.com/theobled/SAE-JAVA/assets/119744902/0b374f46-7ac0-4a19-bbfc-3e5dbea81c5b)
 
 
 ---------------
@@ -81,6 +80,7 @@ pour lancer : java -ea appli/App
 
 ### <div id="presentation"> Diagramme d'architecture </div>
 
+![image](https://github.com/theobled/SAE-JAVA/assets/119744902/15d98741-79bf-4a58-b2c5-1099b3189e9b)
 
 
 
